@@ -17,7 +17,7 @@ warnings.filterwarnings('ignore')
 #Page expands to full width
 st.set_page_config(layout = "wide")
 #Logo for the app
-image = Image.open('logo.jpg')
+image = Image.open('logo.jpeg')
 
 st.container()
 # st.columns(spec)
