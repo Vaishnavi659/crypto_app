@@ -28,7 +28,7 @@ col1.image(image,width=500)
 # title----------------------------------------
 col2.title('IDK crypto App')
 col2.markdown(""" 
-IDK crypto app retrives the latest info about the top 100 cryptocurrencies so now u know what's treanding in cryptocurrencies 
+IDK crypto app retrives the latest info about the top 100 cryptocurrencies so now u know what's trending in cryptocurrencies 
 """)
 
 #about------------------------------------------
